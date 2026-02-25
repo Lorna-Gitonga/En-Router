@@ -1,0 +1,1 @@
+const [destinations, setDestinations] = useState([]);
